@@ -1,0 +1,7 @@
+A .git file gets added to it that will contain the metadata
+for the repository.
+
+How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+It's like an intermediate place where you can think over what
+you want to commit before actually comitting it.
