@@ -1,0 +1,10 @@
+Ok, nice.
+Well, it can help me try out a new thing without the fear of
+loosing the old one.
+Making commits at a logical change makes more sense than 
+randomly making one.
+Because linked files are not used by many people.
+Use git log first, then press q. Use diff with the commit 
+ids.
+I can always go back to when it was working is reassuring to me.
+Coding, duh.
