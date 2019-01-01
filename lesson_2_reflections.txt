@@ -15,3 +15,5 @@ keeping your history organized? How would branches help?
 If I am testing a new feature it would better to do so on a
 new branch 
 
+How do the diagrams help you visualize the branch structure?
+What do you mean how? They just do, ok?
