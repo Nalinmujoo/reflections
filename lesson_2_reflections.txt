@@ -17,3 +17,7 @@ new branch
 
 How do the diagrams help you visualize the branch structure?
 What do you mean how? They just do, ok?
+
+What is the result of merging two branches together? Why do
+we represent it in the diagram the way we do?
+The changes from both of them are kept in a new branch. Because it's sort of like they came back together
