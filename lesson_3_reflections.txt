@@ -8,3 +8,9 @@ remote repository?
 I may be doing some stuff on my local repo and Git may out
 of nowhere pull a commit that has nothing to do with what
 I am doing.
+
+Describe the differences between forks, clones, and 
+branches. When would you use one instead of another?
+Branch is adding another commit on the same repo that is
+not in the main branch. Clone means just copying a repo. 
+Forks is a GitHub term for copying a repo. 
