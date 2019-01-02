@@ -20,4 +20,10 @@ What do you mean how? They just do, ok?
 
 What is the result of merging two branches together? Why do
 we represent it in the diagram the way we do?
-The changes from both of them are kept in a new branch. Because it's sort of like they came back together
+The changes from both of them are kept in a new branch.
+Because it's sort of like they came back together
+
+What are the pros and cons of Git’s automatic merging vs.
+always doing merges manually?
+If you do it manually the file will remain compilable. If
+we leave it to git, it may not remain compilable
