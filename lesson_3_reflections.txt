@@ -23,3 +23,9 @@ You can check what changes you made directly on the remote
 How would you collaborate without using Git or GitHub? What 
 would be easier, and what would be harder?
 Pen drive and whatsapp. GitHub is easier.
+
+When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each 
+approach have?
+When you want try a new feature but don't want to break
+master.
