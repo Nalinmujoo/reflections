@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known
 state of the remote stored locally?
 You can check what changes you made directly on the remote
 (using GitHub) by comparing it to the local copy.
+
+How would you collaborate without using Git or GitHub? What 
+would be easier, and what would be harder?
+Pen drive and whatsapp. GitHub is easier.
